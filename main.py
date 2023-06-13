@@ -35,7 +35,7 @@ def main():
             3. Consider:
                 a. Purpose/features - describe.
                 b. Functions/code - provide details/samples.
-                c. Setup/usage - give instructions.
+                c. Setup/usage - give instructions with code for setting it up such that anyone can just replicate those exact steps and set it up.
             4. Unsure? Say "I am not sure".
 
             Answer:
