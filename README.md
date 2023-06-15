@@ -6,6 +6,7 @@ CodeConverse is a repository that enables seamless communication with your code 
 
 - Python 3.6+
 - OpenAI API key (set in the environment variable `OPENAI_API_KEY`)
+- Confluence API key, account, and space
 
 ## Usage
 1. Set the OpenAI API key as an environment variable `OPENAI_API_KEY`.
